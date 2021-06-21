@@ -1,6 +1,6 @@
-### Hi there 👋
+### Olá Pessoal 👋
 
-<!--
+
 <a href="https://github.com/RenatoGSouza" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a> 
@@ -17,7 +17,7 @@
 <br />
 <br />
 
-Olá, me chamo **Renato GSouza**, sou de São Paulo, Brasil e atualmente sou estudande de desenvolvimento web **na Trybe** 🚀. 
+Me chamo **Renato GSouza**, sou de São Paulo, Brasil e atualmente sou estudande de desenvolvimento web **na Trybe** 🚀. 
 
 **Meus interesses pessoais:**
 
@@ -45,7 +45,6 @@ Olá, me chamo **Renato GSouza**, sou de São Paulo, Brasil e atualmente sou est
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" />
 </p>
 
 
