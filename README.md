@@ -7,9 +7,6 @@
 <a href="https://www.instagram.com/renatmacedo/" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a> 
-<a href="https://www.facebook.com/renato.macedo.5494/" target="_blank">
-  <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
-</a> 
 <a href="https://www.linkedin.com/in/renato-gsouza-142897170/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
@@ -24,7 +21,7 @@ Me chamo **Renato GSouza**, sou de São Paulo, Brasil e atualmente sou estudande
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
 - 👨🏽‍💻 Estou estudando testes em frontend com **Jest** que é um framework de testes para **JavaScript**;
-- 🤔 Meus hobbies são andar de skate e jogos online;
+- 🤔 Meus hobbies são andar de skate, ler bons livros e jogos online;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
 - 📫 Por favor, envie um email para **renatomacedo1995@gmail.com** para me encontrar.
 
