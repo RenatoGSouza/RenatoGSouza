@@ -38,7 +38,36 @@ Me chamo **Renato GSouza**, sou de São Paulo, Brasil e atualmente sou estudande
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/> 
 </p>
-
+<h3>BACK-END</h3>
+   <a href="https://dev.mysql.com/doc/" target="_blank">
+   <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code> 
+  </a>
+    <a href="https://www.mongodb.com/pt-br" target="_blank">
+   <code><img height="50px" width="50" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg"></code>
+  </a>
+    <a href="https://nodejs.org/en/" target="_blank">
+   <code><img height="50px" width="50" src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-256.png"></code>
+        <a href="https://expressjs.com/pt-br/" target="_blank">
+   <code><img height="50px" width="50" src="https://w7.pngwing.com/pngs/545/451/png-transparent-node-js-express-js-javascript-solution-stack-web-application-others-angle-text-rectangle.png"></code>
+  </a>
+  
+  <h3>TESTES</h3>
+    <a href="https://jestjs.io/docs/getting-started" target="_blank">
+   <code><img height="50px" width="50" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png"></code>
+  </a>
+      <a href="https://testing-library.com/" target="_blank">
+   <code><img height="50px" width="50" src="https://testing-library.com/img/octopus-128x128.png"></code>
+  </a>
+     <a href="https://mochajs.org/" target="_blank">
+   <code><img height="50px" width="50" src="https://cdn.iconscout.com/icon/free/png-256/mocha-1-1175012.png"></code>
+  </a>
+      <a href="https://www.chaijs.com/" target="_blank">
+   <code><img height="50px" width="50" src="https://iconape.com/wp-content/png_logo_vector/chai-logo.png"></code>
+  </a>
+      <a href="https://sinonjs.org/" target="_blank">
+   <code><img height="50px" width="50" src="https://sinonjs.org/assets/images/logo.png"></code>
+  </a>
+  
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
