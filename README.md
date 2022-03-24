@@ -1,10 +1,10 @@
 ### Olá Pessoal 👋
 
 
-<a href="https://github.com/RenatoGSouza" target="_blank">
+<a href="https://github.com/renatograca" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a> 
-<a href="https://www.instagram.com/renatmacedo/" target="_blank">
+<a href="https://www.instagram.com/renatgraca/" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a> 
 <a href="https://www.linkedin.com/in/renato-graca/" target="_blank">
@@ -98,15 +98,15 @@ Me chamo **Renato GSouza**, sou de São Paulo, Brasil e atualmente sou estudande
 <p>
   
 <br />
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=RenatoGSouza&count_private=true&show_icons=true&theme=github_dark&icon_color=268bd2&title_color=268bd2" alt="RenatoGSouza" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=renatograca&count_private=true&show_icons=true&theme=github_dark&icon_color=268bd2&title_color=268bd2" alt="renatograca" />
 </p>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoGSouza&layout=compact&theme=github_dark&title_color=268bd2" alt="Renato GSouza" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatograca&layout=compact&theme=github_dark&title_color=268bd2" alt="Renato Graca" />
 </p>
 
 <br />
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RenatoGSouza" alt="Renato GSouza" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=renatograca" alt="Renato GSouza" /> </p>
 
 ⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
