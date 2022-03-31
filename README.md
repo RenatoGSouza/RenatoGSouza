@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Me chamo **Renato GSouza**, sou de São Paulo, Brasil e atualmente sou software developer  **no Mercado Livre** 🚀. 
+Me chamo **Renato Graça**, sou de São Paulo, Brasil e atualmente sou software developer  **no Mercado Livre** 🚀. 
 
 **Meus interesses pessoais:**
 
