@@ -20,7 +20,7 @@ Me chamo **Renato Graça**, sou de São Paulo, Brasil e atualmente sou software 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
-- 👨🏽‍💻 Estou estudando testes em frontend com **Jest** que é um framework de testes para **JavaScript**;
+- 👨🏽‍💻 Aspirante da pratica de TDD nos projetos;
 - 🤔 Meus hobbies são andar de skate, ler bons livros e jogos online;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
 - 📫 Por favor, envie um email para **renatomacedo1995@gmail.com** para me encontrar.
