@@ -22,7 +22,7 @@ Me chamo **Renato Graça**, sou de São Paulo, Brasil e atualmente sou software 
 
 - 👨🏽‍💻 Aspirante da pratica de TDD nos projetos;
 - 🤔 Meus hobbies são andar de skate, ler bons livros e jogos online;
-- 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
+- 💼 Sempre em busca do conhecimento para evoluir na minha carreira de desenvolvedor;
 - 📫 Por favor, envie um email para **renatomacedo1995@gmail.com** para me encontrar.
 
 <br />
